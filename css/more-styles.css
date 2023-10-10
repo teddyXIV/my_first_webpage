@@ -9,3 +9,11 @@ h2 {
 div {
     text-align: center; 
 }
+
+p {
+    font-size: x-large; line-height: '40px%'; font-style: unset;
+}
+
+ul {
+    color: teal;
+}
